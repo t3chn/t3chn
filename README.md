@@ -1,46 +1,46 @@
-# Hi there, I'm Vitaly 👋
+<div align="center">
 
-**Software Engineer** specializing in backend systems, AI integration, and algorithmic trading.
+# Vitaly
 
-## 🛠️ Tech Stack
+**Software Engineer** · Backend Systems · AI Integration · Algorithmic Trading
 
-**Languages & Frameworks**
-- Python (FastAPI, Django)
-- Rust
-- JavaScript/TypeScript (Node.js, React)
-- Go
+[![Telegram](https://img.shields.io/badge/-@vitnm-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/vitnm)
+[![GitHub](https://img.shields.io/badge/-t3chn-181717?style=flat&logo=github&logoColor=white)](https://github.com/t3chn)
 
-**Technologies**
-- Docker & Kubernetes
-- PostgreSQL, Redis
-- GitHub Actions, CI/CD
-- LLM Integration (OpenAI, Claude)
-- Blockchain Development
-
-## 🚀 Current Focus
-
-- Building AI-powered trading systems
-- Language Model optimization and integration
-- Backend architecture and microservices
-- Developer tools and automation
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t3chn&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t3chn&layout=compact&theme=dark&hide_border=true)
-
-## 💼 Featured Projects
-
-- **cs-backend** - Backend service architecture
-- **simple-todo-app** - Clean task management application
-- **cc-blueprint-toolkit** - Blueprint-driven Claude Code autopilot
-
-## 📫 Connect
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vitnm)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/t3chn)
+</div>
 
 ---
 
-💡 Open to collaboration on innovative projects at the intersection of AI, trading, and backend systems.
+### Tech Stack
+
+```
+Languages        Python · Rust · Go · TypeScript
+Backend          FastAPI · Node.js
+Infrastructure   Docker · Kubernetes · PostgreSQL · Redis
+AI/ML            OpenAI · Claude · LLM Integration
+Other            Blockchain · CI/CD · GitHub Actions
+```
+
+### Current Focus
+
+- AI-powered trading systems
+- LLM optimization & integration
+- Backend architecture & microservices
+- Developer tooling & automation
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=t3chn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=t3chn&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to collaboration on AI, trading, and backend systems*
+
+</div>
