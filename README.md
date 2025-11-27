@@ -15,7 +15,7 @@
 
 ```
 Languages        Python · Rust · Go · TypeScript
-Backend          FastAPI · Node.js
+Backend          FastAPI · Axum · Gin · Node.js
 Infrastructure   Docker · Kubernetes · PostgreSQL · Redis
 AI/ML            OpenAI · Claude · LLM Integration
 Other            Blockchain · CI/CD · GitHub Actions
