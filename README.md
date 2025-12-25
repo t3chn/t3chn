@@ -1,10 +1,8 @@
 <div align="center">
 
-# Vitaly
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Vitaly;Backend+Engineer;AI+%26+Trading+Systems)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend+Systems;AI+Integration;Algorithmic+Trading;LLM+Optimization)](https://git.io/typing-svg)
-
-**Software Engineer**
+**Software Engineer** · Backend Systems · AI Integration · Algorithmic Trading
 
 [![Telegram](https://img.shields.io/badge/-@vitnm-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/vitnm)
 [![GitHub](https://img.shields.io/badge/-t3chn-181717?style=flat&logo=github&logoColor=white)](https://github.com/t3chn)
