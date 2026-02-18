@@ -1,96 +1,65 @@
-```
- ██╗   ██╗██╗████████╗ █████╗ ██╗  ██╗   ██╗
- ██║   ██║██║╚══██╔══╝██╔══██╗██║  ╚██╗ ██╔╝
- ██║   ██║██║   ██║   ███████║██║   ╚████╔╝
- ╚██╗ ██╔╝██║   ██║   ██╔══██║██║    ╚██╔╝
-  ╚████╔╝ ██║   ██║   ██║  ██║███████╗██║
-   ╚═══╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝
-```
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=%24+whoami;backend_engineer;ai_systems_architect;algorithmic_trader)](https://git.io/typing-svg)
+<a href="https://github.com/t3chn">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=vitaly+%3A%3A+software+engineer" alt="Vitaly — Software Engineer" />
+</a>
 
-```python
-class Vitaly:
-    role = "Software Engineer"
-    location = "Building distributed systems"
+**Building AI systems, trading infrastructure, and backend platforms in Python, Rust, Go, and TypeScript.**
 
-    skills = {
-        "languages": ["Python", "Rust", "Go", "TypeScript"],
-        "focus": ["AI/LLM", "Trading Systems", "Backend"]
-    }
-
-    def current_mission(self):
-        return "Automating everything with AI"
-```
-
-<a href="https://t.me/vitnm"><img src="https://img.shields.io/badge/-%40vitnm-000?style=for-the-badge&logo=telegram&logoColor=00ff00" /></a>
-<a href="https://github.com/t3chn"><img src="https://img.shields.io/badge/-t3chn-000?style=for-the-badge&logo=github&logoColor=00ff00" /></a>
+<a href="https://t.me/vitnm"><img src="https://img.shields.io/badge/Telegram-@vitnm-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/t3chn"><img src="https://img.shields.io/badge/GitHub-t3chn-181717?style=flat&logo=github&logoColor=white" /></a>
 
 </div>
 
 ---
 
-<details>
-<summary><b>⚡ ~/tech_stack</b></summary>
-<br>
-
-```bash
-$ cat /proc/skills
-```
-
-| Layer | Technologies |
-|:------|:-------------|
-| `lang` | ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00ff00) ![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=00ff00) ![Go](https://img.shields.io/badge/Go-000?style=flat-square&logo=go&logoColor=00ff00) ![TypeScript](https://img.shields.io/badge/TS-000?style=flat-square&logo=typescript&logoColor=00ff00) |
-| `backend` | ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=00ff00) ![Axum](https://img.shields.io/badge/Axum-000?style=flat-square&logo=rust&logoColor=00ff00) ![Echo](https://img.shields.io/badge/Echo-000?style=flat-square&logo=go&logoColor=00ff00) ![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=00ff00) |
-| `infra` | ![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=00ff00) ![K8s](https://img.shields.io/badge/K8s-000?style=flat-square&logo=kubernetes&logoColor=00ff00) ![Postgres](https://img.shields.io/badge/PG-000?style=flat-square&logo=postgresql&logoColor=00ff00) ![Redis](https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis&logoColor=00ff00) |
-| `ai` | ![OpenAI](https://img.shields.io/badge/OpenAI-000?style=flat-square&logo=openai&logoColor=00ff00) ![Claude](https://img.shields.io/badge/Claude-000?style=flat-square&logo=anthropic&logoColor=00ff00) ![LLM](https://img.shields.io/badge/LLM-000?style=flat-square&logoColor=00ff00) |
-
-</details>
-
-<details>
-<summary><b>🎯 ~/current_processes</b></summary>
-<br>
-
-```bash
-$ ps aux | grep vitaly
-```
-
-```
-PID   PROCESS                              STATUS
-001   ai_trading_systems                   [RUNNING]
-002   llm_optimization                     [RUNNING]
-003   backend_architecture                 [RUNNING]
-004   developer_tooling                    [BUILDING]
-```
-
-</details>
-
-<details open>
-<summary><b>📊 ~/system_metrics</b></summary>
-<br>
+### Stack
 
 <div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=t3chn&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00&ring_color=00ff00" height="165" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=t3chn&theme=github_dark&utcOffset=3" height="165" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,rust,go,ts&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,rust,go,ts&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,rust,go,ts&theme=dark" alt="Languages" />
+</picture>
+<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,postgres,redis&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,postgres,redis&theme=light" />
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,postgres,redis&theme=dark" alt="Infrastructure" />
+</picture>
 </div>
 
-</details>
+---
+
+### What I'm Building
+
+- **AI Trading Systems** — Real-time market analysis and execution powered by LLMs
+- **LLM Infrastructure** — Optimization and orchestration layers for production AI
+- **Distributed Backend** — High-throughput services in Rust and Go
+
+---
+
+### Metrics
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-stats.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-stats-light.svg" />
+  <img src="assets/github-stats.svg" alt="GitHub Stats" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg" />
+  <img src="assets/languages.svg" alt="Languages" />
+</picture>
+</div>
 
 ---
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────┐
-│  > Open to collaboration on AI & trading systems │
-│  > Let's build something extraordinary_          │
-└──────────────────────────────────────────────────┘
-```
-
-![Visitors](https://komarev.com/ghpvc/?username=t3chn&color=00ff00&style=flat-square&label=visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=t3chn&color=58A6FF&style=flat-square&label=profile+views)
 
 </div>
