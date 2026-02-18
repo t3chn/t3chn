@@ -17,17 +17,18 @@
 ### Stack
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,rust,go,ts&theme=dark&perRow=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,rust,go,ts&theme=light&perRow=4" />
-  <img src="https://skillicons.dev/icons?i=python,rust,go,ts&theme=dark&perRow=4" alt="Languages" />
-</picture>
-<br />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,postgres,redis&theme=dark&perRow=5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,postgres,redis&theme=light&perRow=5" />
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,postgres,redis&theme=dark&perRow=5" alt="Infrastructure" />
-</picture>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
 </div>
 
 ---
@@ -43,17 +44,11 @@
 ### Metrics
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-stats.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-stats-light.svg" />
-  <img src="assets/github-stats.svg" alt="GitHub Stats" />
-</picture>
+
+<img src="assets/github-stats.svg" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/languages.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg" />
-  <img src="assets/languages.svg" alt="Languages" />
-</picture>
+<img src="assets/languages.svg" alt="Languages" />
+
 </div>
 
 ---
