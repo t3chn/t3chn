@@ -18,15 +18,15 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,rust,go,ts&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,rust,go,ts&theme=light" />
-  <img src="https://skillicons.dev/icons?i=python,rust,go,ts&theme=dark" alt="Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,rust,go,ts&theme=dark&perRow=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,rust,go,ts&theme=light&perRow=4" />
+  <img src="https://skillicons.dev/icons?i=python,rust,go,ts&theme=dark&perRow=4" alt="Languages" />
 </picture>
 <br />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,postgres,redis&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,postgres,redis&theme=light" />
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,postgres,redis&theme=dark" alt="Infrastructure" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,postgres,redis&theme=dark&perRow=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,postgres,redis&theme=light&perRow=5" />
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,postgres,redis&theme=dark&perRow=5" alt="Infrastructure" />
 </picture>
 </div>
 
