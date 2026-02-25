@@ -45,19 +45,22 @@
 
 ### Manifesto
 
+*Automate the work. Never automate the accountability.*
+
 </div>
 
-> **AI leverage compounds.** Either you operationalize agents with hard constraints
-> and auditability, or you accept compounding lag.
+> **AI leverage compounds.** Build the rails now, or pay for drift forever.
 >
-> Don't patch old workflows with agents. Build new ones where agents are
-> the primary actors and humans steer, verify, and own the outcomes.
+> Don't patch old workflows with agents. Rebuild from the assumption
+> that agents act, and humans govern.
 
 | ![](https://img.shields.io/badge/TRUST-58A6FF?style=flat-square) | ![](https://img.shields.io/badge/PROCESS-2ECC71?style=flat-square) | ![](https://img.shields.io/badge/GUARD-E67E22?style=flat-square) |
 |:---|:---|:---|
-| **1.** Delegate by default | **4.** Atomic changes | **7.** Security scales with the agent |
+| **1.** Delegate by default | **4.** Atomic changes, bounded scope | **7.** Blast radius scales with the agent |
 | **2.** Context is a product | **5.** Standards are machine gates | **8.** Deterministic environment |
-| **3.** Tests as contracts | **6.** Living project memory | **9.** Humans own outcomes |
+| **3.** Tests as contracts | **6.** Living project memory | **9.** Feedback loops close the system |
+
+> **10. Humans own outcomes.** *"The agent did it" is not an excuse.*
 
 ```
 ✗  No RPA development     ✗  No vibe merges
