@@ -43,7 +43,7 @@
 
 <div align="center">
 
-### Manifesto
+### [Manifesto](MANIFESTO.md)
 
 *Automate the work. Never automate the accountability.*
 
