@@ -53,12 +53,6 @@
 > Don't patch old workflows with agents. Build new ones where agents are
 > the primary actors and humans steer, verify, and own the outcomes.
 
-<div align="center">
-
-![TRUST](https://img.shields.io/badge/TRUST-58A6FF?style=flat-square&labelColor=0d1117)&nbsp;&nbsp;![PROCESS](https://img.shields.io/badge/PROCESS-2ECC71?style=flat-square&labelColor=0d1117)&nbsp;&nbsp;![GUARD](https://img.shields.io/badge/GUARD-E67E22?style=flat-square&labelColor=0d1117)
-
-</div>
-
 | ![](https://img.shields.io/badge/TRUST-58A6FF?style=flat-square) | ![](https://img.shields.io/badge/PROCESS-2ECC71?style=flat-square) | ![](https://img.shields.io/badge/GUARD-E67E22?style=flat-square) |
 |:---|:---|:---|
 | **1.** Delegate by default | **4.** Atomic changes | **7.** Security scales with the agent |
