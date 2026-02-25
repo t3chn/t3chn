@@ -53,28 +53,26 @@
 > Don't patch old workflows with agents. Build new ones where agents are
 > the primary actors and humans steer, verify, and own the outcomes.
 
+<div align="center">
+
+![TRUST](https://img.shields.io/badge/TRUST-58A6FF?style=flat-square&labelColor=0d1117)&nbsp;&nbsp;![PROCESS](https://img.shields.io/badge/PROCESS-2ECC71?style=flat-square&labelColor=0d1117)&nbsp;&nbsp;![GUARD](https://img.shields.io/badge/GUARD-E67E22?style=flat-square&labelColor=0d1117)
+
+</div>
+
+| ![](https://img.shields.io/badge/TRUST-58A6FF?style=flat-square) | ![](https://img.shields.io/badge/PROCESS-2ECC71?style=flat-square) | ![](https://img.shields.io/badge/GUARD-E67E22?style=flat-square) |
+|:---|:---|:---|
+| **1.** Delegate by default | **4.** Atomic changes | **7.** Security scales with the agent |
+| **2.** Context is a product | **5.** Standards are machine gates | **8.** Deterministic environment |
+| **3.** Tests as contracts | **6.** Living project memory | **9.** Humans own outcomes |
+
 ```
-machine-first    :: not human-first + AI bolt-on
-source of truth  :: code, schemas, CI state
-human UI         :: projection, not the source
+✗  No RPA development     ✗  No vibe merges
+✗  No lazy context        ✗  No silent autonomy
 ```
 
-**Principles** &mdash;
-**1.** Delegate by default &middot;
-**2.** Context is a product &middot;
-**3.** Tests as contracts &middot;
-**4.** Atomic changes &middot;
-**5.** Standards are machine gates &middot;
-**6.** Living project memory &middot;
-**7.** Security scales with the agent &middot;
-**8.** Deterministic environment &middot;
-**9.** Humans own outcomes
-
-**Anti-Principles** &mdash;
-No RPA development &middot;
-No vibe merges &middot;
-No lazy context &middot;
-No silent autonomy
+<div align="center">
+<sub>machine-first :: not human-first + AI bolt-on · source of truth :: code, schemas, CI state · human UI :: projection, not the source</sub>
+</div>
 
 ---
 
