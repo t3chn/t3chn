@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560" role="img" aria-labelledby="title description">
+  <title id="title">t3chn control plane</title>
+  <desc id="description">Vitaly D. builds bounded, inspectable agent systems where humans own outcomes.</desc>
+  <defs>
+    <marker id="arrow-light" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#536477" />
+    </marker>
+    <style>
+      text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+      .frame { fill: #FFFFFF; stroke: #C8D1DC; }
+      .rule { stroke: #C8D1DC; stroke-width: 1; }
+      .brand { fill: #15202B; font-size: 46px; font-weight: 760; letter-spacing: -1px; }
+      .control { fill: #0969DA; font-size: 13px; font-weight: 700; letter-spacing: 1.8px; }
+      .role { fill: #15202B; font-size: 19px; font-weight: 650; }
+      .mission { fill: #536477; font-size: 15px; }
+      .label { fill: #536477; font-size: 11px; font-weight: 700; letter-spacing: 1.4px; }
+      .principle { fill: #15202B; font-size: 16px; font-weight: 650; }
+      .principle.guard { fill: #9A5B00; }
+      .node-label { fill: #536477; font-size: 11px; font-weight: 700; letter-spacing: .7px; }
+      .system-name { fill: #15202B; font-size: 16px; font-weight: 750; letter-spacing: .5px; }
+      .system-copy { fill: #536477; font-size: 13px; }
+      .system-status { font-size: 10px; font-weight: 750; letter-spacing: 1px; }
+      .footer { fill: #536477; font-size: 12px; }
+      .flow { stroke: #536477; stroke-width: 1.5; stroke-dasharray: 7 7; animation: flow 6s linear infinite; }
+      .status-ring { transform-origin: 893px 31px; animation: pulse 2.4s ease-out infinite; }
+      .status-dot { animation: breathe 2.8s ease-in-out infinite; }
+      @keyframes flow { to { stroke-dashoffset: -56; } }
+      @keyframes pulse { 0% { opacity: .55; transform: scale(.65); } 70%, 100% { opacity: 0; transform: scale(1.45); } }
+      @keyframes breathe { 0%, 100% { opacity: 1; } 50% { opacity: .55; } }
+      @media (prefers-reduced-motion: reduce) {
+        .flow, .status-ring, .status-dot { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <rect width="960" height="560" rx="13" fill="#F6F8FA" />
+  <rect x="1" y="1" width="958" height="558" rx="12" class="frame" />
+
+  <line x1="1" y1="57" x2="959" y2="57" class="rule" />
+  <circle cx="29" cy="29" r="5" fill="#9A5B00" />
+  <text x="45" y="34" class="control">T3CHN / CONTROL PLANE</text>
+  <text x="846" y="35" class="label">ONLINE</text>
+  <circle cx="893" cy="31" r="6" fill="#16833C" />
+  <circle cx="893" cy="31" r="11" fill="none" stroke="#16833C" class="status-ring" />
+  <text x="916" y="35" text-anchor="middle" class="footer">V1</text>
+
+  <text x="50" y="123" class="brand">t3chn</text>
+  <text x="52" y="157" class="role">Vitaly D. — agent systems builder</text>
+  <text x="52" y="187" class="mission">I build systems where agents can act,</text>
+  <text x="52" y="210" class="mission">and humans still own the outcome.</text>
+
+  <line x1="580" y1="88" x2="580" y2="210" class="rule" />
+  <text x="620" y="103" class="label">OPERATING PRINCIPLE</text>
+  <text x="620" y="139" class="principle">Bound the work.</text>
+  <text x="620" y="166" class="principle">Inspect the evidence.</text>
+  <text x="620" y="193" class="principle guard">Own the outcome.</text>
+
+  <text x="50" y="248" class="label">CONTROL LOOP</text>
+  <line x1="114" y1="267" x2="266" y2="267" class="flow" marker-end="url(#arrow-light)" />
+  <line x1="304" y1="267" x2="461" y2="267" class="flow" marker-end="url(#arrow-light)" />
+  <line x1="499" y1="267" x2="661" y2="267" class="flow" marker-end="url(#arrow-light)" />
+  <line x1="699" y1="267" x2="846" y2="267" class="flow" marker-end="url(#arrow-light)" />
+
+        <circle cx="95" cy="267" r="9" fill="#0969DA" />
+        <circle cx="95" cy="267" r="18" fill="none" stroke="#0969DA" stroke-opacity=".25" />
+        <text x="95" y="305" text-anchor="middle" class="node-label">INTENT</text>
+
+        <circle cx="285" cy="267" r="9" fill="#0969DA" />
+        <circle cx="285" cy="267" r="18" fill="none" stroke="#0969DA" stroke-opacity=".25" />
+        <text x="285" y="305" text-anchor="middle" class="node-label">CONTRACT</text>
+
+        <circle cx="480" cy="267" r="9" fill="#9A5B00" />
+        <circle cx="480" cy="267" r="18" fill="none" stroke="#9A5B00" stroke-opacity=".25" />
+        <text x="480" y="305" text-anchor="middle" class="node-label">AGENT WORK</text>
+
+        <circle cx="680" cy="267" r="9" fill="#16833C" />
+        <circle cx="680" cy="267" r="18" fill="none" stroke="#16833C" stroke-opacity=".25" />
+        <text x="680" y="305" text-anchor="middle" class="node-label">PROOF</text>
+
+        <circle cx="865" cy="267" r="9" fill="#16833C" />
+        <circle cx="865" cy="267" r="18" fill="none" stroke="#16833C" stroke-opacity=".25" />
+        <text x="865" y="305" text-anchor="middle" class="node-label">OUTCOME</text>
+
+
+  <text x="50" y="326" class="label">ACTIVE SYSTEMS</text>
+
+    <line x1="50" y1="335" x2="445" y2="335" class="rule" />
+    <circle cx="57" cy="360" r="5" fill="#16833C" class="status-dot" />
+    <text x="74" y="365" class="system-name">SIGNUM</text>
+    <text x="74" y="387" class="system-copy">contract-first proof gate</text>
+    <text x="445" y="365" text-anchor="end" class="system-status" fill="#16833C">ACTIVE</text>
+
+    <line x1="50" y1="410" x2="445" y2="410" class="rule" />
+    <circle cx="57" cy="435" r="5" fill="#0969DA" class="status-dot" />
+    <text x="74" y="440" class="system-name">HERALD</text>
+    <text x="74" y="462" class="system-copy">local-first news intelligence</text>
+    <text x="445" y="440" text-anchor="end" class="system-status" fill="#0969DA">ACTIVE</text>
+
+    <line x1="515" y1="335" x2="910" y2="335" class="rule" />
+    <circle cx="522" cy="360" r="5" fill="#0969DA" class="status-dot" />
+    <text x="539" y="365" class="system-name">ARBITER</text>
+    <text x="539" y="387" class="system-copy">independent AI review routing</text>
+    <text x="910" y="365" text-anchor="end" class="system-status" fill="#0969DA">ACTIVE</text>
+
+    <line x1="515" y1="410" x2="910" y2="410" class="rule" />
+    <circle cx="522" cy="435" r="5" fill="#9A5B00" class="status-dot" />
+    <text x="539" y="440" class="system-name">PUNK</text>
+    <text x="539" y="462" class="system-copy">bounded work kernel</text>
+    <text x="910" y="440" text-anchor="end" class="system-status" fill="#9A5B00">EXPERIMENTAL</text>
+
+
+  <line x1="50" y1="495" x2="910" y2="495" class="rule" />
+  <text x="50" y="527" class="footer">machine-first infrastructure / bounded autonomy / proof-bearing work</text>
+  <text x="910" y="527" text-anchor="end" class="footer">AUTOMATE THE WORK · OWN THE OUTCOME</text>
+</svg>
